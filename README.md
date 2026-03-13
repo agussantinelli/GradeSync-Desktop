@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/agussantinelli/GradeSync-Desktop" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/💻%20Repo%20Principal-CalificAR-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Repo CalificAR"/>
+        <img src="https://img.shields.io/badge/💻%20Repo%20Principal-GradeSync-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Repo CalificAR"/>
     </a>
     <a href="#" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/📂%20Carpeta%20del%20Proyecto-Google%20Drive-34a853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Carpeta del proyecto"/>
