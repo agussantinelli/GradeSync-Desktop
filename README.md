@@ -1,4 +1,4 @@
-<h1 align="center">🎓 CalificAR - Desktop</h1>
+<h1 align="center">🎓 GradeSync - Desktop</h1>
 
 <div align="center">
     <a href="https://github.com/agussantinelli/GradeSync-Desktop" target="_blank" style="text-decoration: none;">
